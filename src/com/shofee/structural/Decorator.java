@@ -1,4 +1,4 @@
-package com.shofee.behavioural;
+package com.shofee.structural;
 
 // Base interface for all pizza's
 interface Pizza {

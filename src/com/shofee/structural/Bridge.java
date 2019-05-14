@@ -1,4 +1,4 @@
-package com.shofee.behavioural;
+package com.shofee.structural;
 
 // base abstractor
 abstract class Vehicle {

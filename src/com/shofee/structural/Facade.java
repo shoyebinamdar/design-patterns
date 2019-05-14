@@ -1,4 +1,4 @@
-package com.shofee.behavioural;
+package com.shofee.structural;
 
 class A {
     public void methodA() {

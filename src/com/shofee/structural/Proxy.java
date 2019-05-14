@@ -1,4 +1,4 @@
-package com.shofee.behavioural;
+package com.shofee.structural;
 
 import java.util.ArrayList;
 import java.util.List;

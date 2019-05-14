@@ -1,4 +1,4 @@
-package com.shofee.behavioural;
+package com.shofee.structural;
 
 interface Bird {
     void fly();

@@ -1,4 +1,4 @@
-package com.shofee.behavioural;
+package com.shofee.structural;
 
 import java.util.HashMap;
 import java.util.Random;
