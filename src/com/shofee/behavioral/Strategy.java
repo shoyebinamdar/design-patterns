@@ -1,4 +1,4 @@
-package com.shofee;
+package com.shofee.behavioral;
 
 // Abstract as you must have a specific fighter
 abstract class Fighter {
