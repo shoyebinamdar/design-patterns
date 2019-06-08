@@ -25,4 +25,7 @@
 
 <b>Proxy Pattern</b>:- With this pattern, we create an intermediary that acts as an interface to another resource, e.g., a file, a connection. This secondary access provides a surrogate for the real component and protects it from the underlying complexity.
 
+<b>Facade</b>:- A single class that represents an entire subsystem.
+
+<b>Flyweight</b>:- A fine-grained instance used for efficient sharing.
          
