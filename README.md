@@ -28,4 +28,20 @@
 <b>Facade</b>:- A single class that represents an entire subsystem.
 
 <b>Flyweight</b>:- A fine-grained instance used for efficient sharing.
+
+<b>Behavioral Design Pattern</b>
+
+<b>Chain of Responsibility</b>:- Chain of responsibility pattern is used to achieve loose coupling in software design where a request from the client is passed to a chain of objects to process them. Later, the object in the chain will decide themselves who will be processing the request and whether the request is required to be sent to the next object in the chain or not.
+
+<b>Command</b>:- Chain of responsibility pattern is used to achieve loose coupling in software design where a request from the client is passed to a chain of objects to process them. Later, the object in the chain will decide themselves who will be processing the request and whether the request is required to be sent to the next object in the chain or not.
+
+<b>Iterator Pattern</b>:- The iterator pattern provides a way to access the elements of an aggregate object without exposing its underlying representation.
+ 
+<b>Observer Pattern</b>:- The Observer Pattern defines a one to many dependency between objects so that one object changes state, all of its dependents are notified and updated automatically.
+
+<b>State</b>:- State design pattern is used when an Object changes its behavior based on its internal state.
+
+<b>Strategy</b>:- The strategy pattern (also known as the policy pattern) is a software design pattern that enables an algorithm’s behavior to be selected at runtime.    
+
+<b>Visitor</b>:- Defines a new operation to a class without change.
          
